@@ -49,5 +49,3 @@ This project is **free to use** and open-source. Feel free to contribute! 😊
 🔗 **GitHub:** [@Srijita627](https://github.com/Srijita627)  
 
 ---
-
-Copy and paste this into your `README.md` file on GitHub, and you're all set! 🚀🔥
