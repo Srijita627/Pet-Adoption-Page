@@ -21,13 +21,6 @@ Welcome to the **Pet Adoption Page**! This project is a simple and responsive we
 - **GitHub Pages** 🌍 - Hosting  
 
 ---
-
-## 📷 Screenshot  
-Here’s how the Pet Adoption Page looks:  
-
-![Pet Adoption Page](screenshot.png)
-  
-
 ---
 
 ## 📥 How to Use?  
