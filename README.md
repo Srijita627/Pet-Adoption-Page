@@ -22,11 +22,11 @@ Welcome to the **Pet Adoption Page**! This project is a simple and responsive we
 
 ---
 
-## 📷 Screenshots  
-  Example:  
-```md
+## 📷 Screenshot  
+Here’s how the Pet Adoption Page looks:  
+
 ![Pet Adoption Page](screenshot.png)
-```  
+  
 
 ---
 
